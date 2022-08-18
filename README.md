@@ -95,7 +95,7 @@ Docstring: Each script should start with a docstring that explains the script's 
 = means is assigned to 
 == means equal to
 
-Min: smallest value in a collection 
+Min: smallest value in a collection
 Max: Largest value in a collection 
 Range: Range of values from min to max
 Count: Number of values in a collection
